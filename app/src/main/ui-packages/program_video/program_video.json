@@ -1,0 +1,1216 @@
+{
+  "name": "program_video",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "c8Qw6fcCQOOXFJD63TumA1",
+    "node": "504:1000",
+    "version": "3682748249",
+    "component-id": "ada832ed5788e9ef40ac19ca2f83995cf34e96e0"
+  },
+  "default": "Program-video",
+  "documentation": "program-video\n",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Mask group"
+      },
+      {
+        "type": "group",
+        "id": "Arrow Left / undefined / Glyph: undefined"
+      },
+      {
+        "type": "group",
+        "id": "Group 84"
+      },
+      {
+        "type": "group",
+        "id": "Group 17"
+      },
+      {
+        "type": "vector",
+        "id": "Polygon 1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 71"
+      },
+      {
+        "type": "group",
+        "id": "Group 18"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 76"
+      },
+      {
+        "type": "image",
+        "id": "image 2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 71"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 72"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 73"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 74"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 75"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 77"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 78"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 64"
+      },
+      {
+        "type": "group",
+        "id": "Frame 67"
+      },
+      {
+        "type": "group",
+        "id": "Frame 70"
+      },
+      {
+        "type": "group",
+        "id": "Frame 62"
+      },
+      {
+        "type": "group",
+        "id": "Frame 63"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "text",
+        "id": "Nama Gerakan"
+      },
+      {
+        "type": "text",
+        "id": "Gerakan mengangkat kaki"
+      },
+      {
+        "type": "group",
+        "id": "Frame 66"
+      },
+      {
+        "type": "group",
+        "id": "Frame 65"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "text",
+        "id": "Keterangan"
+      },
+      {
+        "type": "text",
+        "id": "Berbaring dengan posisi terlentang, angkat kaki yang lemah dengan perlahan dan turunkan secara terkendali. Gerakan ini membantu memperkuat otot-otot paha dan pergelangan kaki."
+      },
+      {
+        "type": "group",
+        "id": "Frame 68"
+      },
+      {
+        "type": "group",
+        "id": "Frame 69"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "text",
+        "id": "Estimasi waktu"
+      },
+      {
+        "type": "text",
+        "id": "1 menit"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 79"
+      },
+      {
+        "type": "group",
+        "id": "Frame 15"
+      },
+      {
+        "type": "group",
+        "id": "Previous / undefined / Glyph: undefined"
+      },
+      {
+        "type": "group",
+        "id": "Video / undefined / Glyph: undefined"
+      },
+      {
+        "type": "group",
+        "id": "Next / undefined / Glyph: undefined"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      }
+    ],
+    "modes": {
+      "Program-video": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Mask group",
+              "Arrow Left / undefined / Glyph: undefined",
+              "Group 84",
+              "Group 17",
+              "Polygon 1",
+              "Frame 71",
+              "Group 18"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Mask group",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "73.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "170.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 76",
+              "image 2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Arrow Left / undefined / Glyph: undefined",
+            "padding": {
+              "left": "3.0",
+              "top": "4.0",
+              "right": "3.0",
+              "bottom": "4.0"
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "17.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "44.0"
+              }
+            },
+            "children": [
+              "Vector"
+            ],
+            "item-spacing": "10.0"
+          },
+          {
+            "id": "Group 84",
+            "border-radius": "6.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "84.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "36.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "247.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 71",
+              "Rectangle 72",
+              "Rectangle 73",
+              "Rectangle 74",
+              "Rectangle 75",
+              "Rectangle 77",
+              "Rectangle 78"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 17",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "155.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "133.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Ellipse 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Polygon 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "168.00000014309856"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "145.99999985690144"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "vector-content": "polygon_1.svg"
+          },
+          {
+            "id": "Frame 71",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "30.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "281.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Frame 64",
+              "Frame 67",
+              "Frame 70"
+            ],
+            "item-spacing": "30.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 18",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "732.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "68.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 79",
+              "Frame 15"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 76",
+            "border-radius": "15.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "170.0"
+              }
+            }
+          },
+          {
+            "id": "image 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "-34.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "354.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "184.2379150390625"
+              }
+            },
+            "image-content": "image_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Vector",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.9954833984375"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Rectangle 71",
+            "border-radius": "6.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "rectangle_71.svg"
+          },
+          {
+            "id": "Rectangle 72",
+            "border-radius": "6.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "36.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "rectangle_72.svg"
+          },
+          {
+            "id": "Rectangle 73",
+            "border-radius": "6.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "72.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "rectangle_73.svg"
+          },
+          {
+            "id": "Rectangle 74",
+            "border-radius": "6.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "108.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "rectangle_74.svg"
+          },
+          {
+            "id": "Rectangle 75",
+            "border-radius": "6.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "144.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "rectangle_75.svg"
+          },
+          {
+            "id": "Rectangle 77",
+            "border-radius": "6.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "180.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "rectangle_76.svg"
+          },
+          {
+            "id": "Rectangle 78",
+            "border-radius": "6.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "216.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "31.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "rectangle_77.svg"
+          },
+          {
+            "id": "Ellipse 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "vector-content": "ellipse_1.svg"
+          },
+          {
+            "id": "Frame 64",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Frame 62",
+              "Frame 63"
+            ],
+            "item-spacing": "15.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 67",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Frame 66",
+              "Frame 65"
+            ],
+            "item-spacing": "15.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 70",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Frame 68",
+              "Frame 69"
+            ],
+            "item-spacing": "15.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 62",
+            "padding": "3.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Vector1"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 63",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Nama Gerakan",
+              "Gerakan mengangkat kaki"
+            ],
+            "item-spacing": "5.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "13.5"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.5"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Nama Gerakan",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "233.6",
+              "saturation": "0.7075471698113207",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "Nama Gerakan",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Gerakan mengangkat kaki",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "234.7058823529412",
+              "saturation": "0.21794871794871798",
+              "value": "0.611764705882353"
+            },
+            "text-content": "Gerakan mengangkat kaki",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Frame 66",
+            "padding": "3.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Vector2"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 65",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Keterangan",
+              "Berbaring dengan posisi terlentang, angkat kaki yang lemah dengan perlahan dan turunkan secara terkendali. Gerakan ini membantu memperkuat otot-otot paha dan pergelangan kaki."
+            ],
+            "item-spacing": "5.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "10.949951171875"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Keterangan",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "233.6",
+              "saturation": "0.7075471698113207",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "Keterangan",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Berbaring dengan posisi terlentang, angkat kaki yang lemah dengan perlahan dan turunkan secara terkendali. Gerakan ini membantu memperkuat otot-otot paha dan pergelangan kaki.",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "234.7058823529412",
+              "saturation": "0.21794871794871798",
+              "value": "0.611764705882353"
+            },
+            "text-content": "Berbaring dengan posisi terlentang, angkat kaki yang lemah dengan perlahan dan turunkan secara terkendali. Gerakan ini membantu memperkuat otot-otot paha dan pergelangan kaki.",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Frame 68",
+            "padding": "3.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Vector3"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 69",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Estimasi waktu",
+              "1 menit"
+            ],
+            "item-spacing": "5.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.1199951171875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Estimasi waktu",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "233.6",
+              "saturation": "0.7075471698113207",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "Estimasi waktu",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "1 menit",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "234.7058823529412",
+              "saturation": "0.21794871794871798",
+              "value": "0.611764705882353"
+            },
+            "text-content": "1 menit",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 79",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "68.0"
+              }
+            },
+            "vector-content": "rectangle_78.svg"
+          },
+          {
+            "id": "Frame 15",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "-22.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Previous / undefined / Glyph: undefined",
+              "Video / undefined / Glyph: undefined",
+              "Next / undefined / Glyph: undefined"
+            ],
+            "item-spacing": "104.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Previous / undefined / Glyph: undefined",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector4"
+            ]
+          },
+          {
+            "id": "Video / undefined / Glyph: undefined",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector5"
+            ]
+          },
+          {
+            "id": "Next / undefined / Glyph: undefined",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector6"
+            ]
+          },
+          {
+            "id": "Vector4",
+            "margin": {
+              "left": "3.0",
+              "top": "3.0",
+              "right": "3.000091552734375",
+              "bottom": "2.9990234375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "Vector5",
+            "margin": {
+              "left": "2.0",
+              "top": "4.5",
+              "right": "2.0",
+              "bottom": "4.5"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "left": "3.0001182556152344",
+              "top": "3.0",
+              "right": "3.0",
+              "bottom": "2.9990234375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector6.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Program-video",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

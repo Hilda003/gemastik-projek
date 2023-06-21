@@ -1,0 +1,1306 @@
+{
+  "name": "dashboard",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "NOSGTIFOhouBXrJsvsJtxy",
+    "node": "474:1000",
+    "version": "3682920868",
+    "component-id": "81caa0813a8fa658a94d2a3b2c71e1a1974e59b2"
+  },
+  "default": "dashboard",
+  "documentation": "dashboard",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Hallo, Putri!"
+      },
+      {
+        "type": "group",
+        "id": "Cari Program"
+      },
+      {
+        "type": "text",
+        "id": "Program kamu"
+      },
+      {
+        "type": "text",
+        "id": "Menu Lainnya"
+      },
+      {
+        "type": "vector",
+        "id": "Notifikasi"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 5"
+      },
+      {
+        "type": "group",
+        "id": "Program"
+      },
+      {
+        "type": "group",
+        "id": "Cek Progress"
+      },
+      {
+        "type": "group",
+        "id": "Artikel"
+      },
+      {
+        "type": "group",
+        "id": "Frame 7"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 59"
+      },
+      {
+        "type": "vector",
+        "id": "Search"
+      },
+      {
+        "type": "text",
+        "id": "Cari Program1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 67"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 66"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 53"
+      },
+      {
+        "type": "group",
+        "id": "Lanjutkan Program"
+      },
+      {
+        "type": "group",
+        "id": "Sub Program"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 54"
+      },
+      {
+        "type": "text",
+        "id": "Lanjutkan Program1"
+      },
+      {
+        "type": "group",
+        "id": "Jumlah Gerakan"
+      },
+      {
+        "type": "group",
+        "id": "Waktu"
+      },
+      {
+        "type": "vector",
+        "id": "Sub Jumlah Gerakan"
+      },
+      {
+        "type": "vector",
+        "id": "Jumlah Gerakan Box"
+      },
+      {
+        "type": "text",
+        "id": "12 Gerakan"
+      },
+      {
+        "type": "text",
+        "id": "Jumlah"
+      },
+      {
+        "type": "vector",
+        "id": "People"
+      },
+      {
+        "type": "vector",
+        "id": "SubWaktu"
+      },
+      {
+        "type": "vector",
+        "id": "TimeBox"
+      },
+      {
+        "type": "text",
+        "id": "10 Menit"
+      },
+      {
+        "type": "text",
+        "id": "Waktu1"
+      },
+      {
+        "type": "vector",
+        "id": "Time"
+      },
+      {
+        "type": "group",
+        "id": "Sub Cek Progress"
+      },
+      {
+        "type": "text",
+        "id": "Cek Progress1"
+      },
+      {
+        "type": "group",
+        "id": "insights_FILL0_wght400_GRAD0_opsz48 1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "group",
+        "id": "Group 83"
+      },
+      {
+        "type": "text",
+        "id": "Artikel1"
+      },
+      {
+        "type": "group",
+        "id": "newspaper_FILL0_wght400_GRAD0_opsz48 1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "group",
+        "id": "BottomNavigation"
+      },
+      {
+        "type": "vector",
+        "id": "Home"
+      },
+      {
+        "type": "vector",
+        "id": "Schedule"
+      },
+      {
+        "type": "vector",
+        "id": "Message"
+      },
+      {
+        "type": "vector",
+        "id": "User"
+      }
+    ],
+    "modes": {
+      "dashboard": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Hallo, Putri!",
+              "Cari Program",
+              "Program kamu",
+              "Menu Lainnya",
+              "Notifikasi",
+              "Ellipse 5",
+              "Program",
+              "Cek Progress",
+              "Artikel",
+              "Frame 7"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Hallo, Putri!",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "30.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "30.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "233.6",
+              "saturation": "0.7075471698113207",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "Hallo, Putri!",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Cari Program",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "96.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 59",
+              "Search",
+              "Cari Program1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Program kamu",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "30.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "169.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "233.6",
+              "saturation": "0.7075471698113207",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "Program kamu",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Menu Lainnya",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "30.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "402.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "233.6",
+              "saturation": "0.7075471698113207",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "Menu Lainnya",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "12.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Notifikasi",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "312.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "30.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "17.96014404296875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.50531005859375"
+              }
+            },
+            "vector-content": "notifikasi.svg"
+          },
+          {
+            "id": "Ellipse 5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "323.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "29.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "6.0"
+              }
+            },
+            "vector-content": "ellipse_5.svg"
+          },
+          {
+            "id": "Program",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "202.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "177.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 67",
+              "Rectangle 66",
+              "Rectangle 53",
+              "Lanjutkan Program",
+              "Sub Program"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Cek Progress",
+            "padding": {
+              "left": "42.0",
+              "top": "20.0",
+              "right": "42.0",
+              "bottom": "20.0"
+            },
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "20.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "435.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "152.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Sub Cek Progress"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "233.757225433526",
+              "saturation": "0.7090163934426229",
+              "value": "0.9568627450980393"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Artikel",
+            "padding": {
+              "left": "42.0",
+              "top": "20.0",
+              "right": "42.0",
+              "bottom": "20.0"
+            },
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "186.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "435.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "154.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Group 83"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "233.757225433526",
+              "saturation": "0.7090163934426229",
+              "value": "0.9568627450980393"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Frame 7",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "68.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "BottomNavigation"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 59",
+            "border-radius": "60.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "50.0"
+              }
+            },
+            "vector-content": "rectangle_59.svg"
+          },
+          {
+            "id": "Search",
+            "margin": {
+              "left": "20.0",
+              "top": "16.0",
+              "right": "282.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "search.svg"
+          },
+          {
+            "id": "Cari Program1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "58.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "14.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "247.99999999999997",
+              "saturation": "0.2690582959641256",
+              "value": "0.8745098039215686"
+            },
+            "text-content": "Cari Program",
+            "overflow": "visible",
+            "text-align": "left",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Rectangle 67",
+            "border-radius": "25.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "28.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "264.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "177.0"
+              }
+            },
+            "vector-content": "rectangle_67.svg"
+          },
+          {
+            "id": "Rectangle 66",
+            "border-radius": "25.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "18.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "284.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "172.0"
+              }
+            },
+            "vector-content": "rectangle_66.svg"
+          },
+          {
+            "id": "Rectangle 53",
+            "border-radius": "25.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "167.0"
+              }
+            },
+            "vector-content": "rectangle_53.svg"
+          },
+          {
+            "id": "Lanjutkan Program",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "18.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "89.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "284.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "60.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 54",
+              "Lanjutkan Program1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Sub Program",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "18.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "18.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "284.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "53.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Jumlah Gerakan",
+              "Waktu"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 54",
+            "border-radius": "15.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "284.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "60.0"
+              }
+            },
+            "vector-content": "rectangle_54.svg"
+          },
+          {
+            "id": "Lanjutkan Program1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "74.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "19.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "233.6",
+              "saturation": "0.7075471698113207",
+              "value": "0.41568627450980394"
+            },
+            "text-content": "Lanjutkan Program",
+            "overflow": "visible",
+            "text-align": "left",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Jumlah Gerakan",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "139.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "53.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Sub Jumlah Gerakan",
+              "Jumlah Gerakan Box",
+              "12 Gerakan",
+              "Jumlah",
+              "People"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Waktu",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "145.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "139.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "53.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "SubWaktu",
+              "TimeBox",
+              "10 Menit",
+              "Waktu1",
+              "Time"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Sub Jumlah Gerakan",
+            "border-radius": "15.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "139.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "53.0"
+              }
+            },
+            "vector-content": "sub_jumlah_gerakan.svg"
+          },
+          {
+            "id": "Jumlah Gerakan Box",
+            "border-radius": "12.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "3.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "3.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              }
+            },
+            "vector-content": "jumlah_gerakan_box.svg"
+          },
+          {
+            "id": "12 Gerakan",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "60.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "27.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "240.0",
+              "saturation": "0.0562248995983936",
+              "value": "0.9764705882352941"
+            },
+            "text-content": "12 Gerakan",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Jumlah",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "60.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "11.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "240.0",
+              "saturation": "0.0562248995983936",
+              "value": "0.9764705882352941"
+            },
+            "text-content": "Jumlah",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "People",
+            "margin": {
+              "left": "13.0",
+              "top": "14.0",
+              "right": "99.21429443359375",
+              "bottom": "14.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "people.svg"
+          },
+          {
+            "id": "SubWaktu",
+            "border-radius": "15.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "139.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "53.0"
+              }
+            },
+            "vector-content": "sub_waktu.svg"
+          },
+          {
+            "id": "TimeBox",
+            "border-radius": "12.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "3.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "3.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              }
+            },
+            "vector-content": "time_box.svg"
+          },
+          {
+            "id": "10 Menit",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "60.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "27.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "240.0",
+              "saturation": "0.0562248995983936",
+              "value": "0.9764705882352941"
+            },
+            "text-content": "10 Menit",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Waktu1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "60.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "11.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "240.0",
+              "saturation": "0.0562248995983936",
+              "value": "0.9764705882352941"
+            },
+            "text-content": "Waktu",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "Time",
+            "margin": {
+              "left": "16.0",
+              "top": "14.0",
+              "right": "102.0",
+              "bottom": "14.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "time.svg"
+          },
+          {
+            "id": "Sub Cek Progress",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "67.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "73.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Cek Progress1",
+              "insights_FILL0_wght400_GRAD0_opsz48 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Cek Progress1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "58.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Cek Progress",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "insights_FILL0_wght400_GRAD0_opsz48 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "9.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "2.0",
+              "top": "6.1500244140625",
+              "right": "2.0",
+              "bottom": "7.5"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Group 83",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "73.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Artikel1",
+              "newspaper_FILL0_wght400_GRAD0_opsz48 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Artikel1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "8.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "58.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Artikel",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "10.0",
+            "line-height": "1.5",
+            "typeface": "Poppins"
+          },
+          {
+            "id": "newspaper_FILL0_wght400_GRAD0_opsz48 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "48.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector1"
+            ]
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "4.0",
+              "top": "6.0",
+              "right": "4.0",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "BottomNavigation",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "50.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "24.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Home",
+              "Schedule",
+              "Message",
+              "User"
+            ],
+            "item-spacing": "63.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Home",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.001953125"
+              }
+            },
+            "vector-content": "home.svg"
+          },
+          {
+            "id": "Schedule",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              }
+            },
+            "vector-content": "schedule.svg"
+          },
+          {
+            "id": "Message",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.001708984375"
+              }
+            },
+            "vector-content": "message.svg"
+          },
+          {
+            "id": "User",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "15.99951171875"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.9964599609375"
+              }
+            },
+            "vector-content": "user.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "dashboard",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
